@@ -18,7 +18,11 @@ package.divider.horizontal=0.5993322203672788
 package.divider.vertical=0.685099846390169
 package.editor.height=439
 package.editor.width=493
+<<<<<<< HEAD
 package.editor.x=353
+=======
+package.editor.x=100
+>>>>>>> 7c58213e4ba6520b362f27e9b1a622f8d4b3ae0c
 package.editor.y=23
 package.frame.height=709
 package.frame.width=619
